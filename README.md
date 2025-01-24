@@ -1,3 +1,9 @@
-# Africa-GDP-Population-Analysis
-This is a project that intends to investigate the changes of population and the implication to the GDP of African countries. However, my main focus is kenya
-Despite robust GDP growth in Kenya over the past decade, rapid population expansion, high youth unemployment, and persistent income inequality continue to pose significant challenges to achieving inclusive economic development. This analysis aims to examine the relationship between population growth and economic growth in Kenya, focusing on the key sectors contributing to GDP, the impact of a youthful population on employment, and the barriers to sustainable development in rural and urban areas. By identifying critical gaps in human capital development, employment opportunities, and income distribution, this study seeks to provide insights for policies aimed at fostering long-term economic resilience and social equity.
+# Bank Analytics
+Most banks across the world have a large customer base and are characterized by different characteristics in terms of age, values, income and lifestyle among others. The dataset used for this analysis focuses on a bank in India which consists of over 1 million transactions and with over 800k customers. The data contains information such as the location, age of customers, account balance at the time of transaction, gender, transaction details and transaction amount among other attributes. This analysis will use this dataset to analyze the following aspects;
+      - Performance segmentation and identify the popular customer groups
+      - Location performance
+      -	Transaction performance
+      -	Customer recency, frequency and monetary analysis
+      -	Hypothesis testing
+      -	Cohort analysis
+
